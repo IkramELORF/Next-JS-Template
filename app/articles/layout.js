@@ -10,7 +10,7 @@ export default function ({ children }) {
 			<div
 				style={{
 					marginTop: "50px",
-					background: "blue",
+					background: "rgb(90, 87, 90)",
 					padding: "20px",
 					borderRadius: "10px",
 				}}

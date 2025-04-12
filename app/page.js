@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
 	return (
 		<div className="main-div">
-			<h1>Hello World</h1>
+			<h1>Home Page ..</h1>
 		</div>
 	);
 }
